@@ -42,3 +42,4 @@ function switchOnCharmFromTip(tip) {
   return "Bye." ;
   }
 }
+//a monkey jumped on a monk
